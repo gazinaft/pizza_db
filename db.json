@@ -1,7 +1,6 @@
 {
   "products": [{
-    "id": 1,
-    "url": "pizza_mozzarella",
+    "id": "pizza_mozzarella",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just mozarella, sauce and dough",
     "price": 155,
@@ -10,7 +9,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   },{
-    "url": "pizza_pepperoni",
+    "id": "pizza_pepperoni",
     "productName": "Pizza Pepperoni",
     "productDescription": "The classic pizza, with thin slices of pepperoni",
     "price": 165,
@@ -19,7 +18,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   },{
-    "url": "pizza_five_cheese",
+    "id": "pizza_five_cheese",
     "productName": "Five Cheese Pizza",
     "productDescription": "The most cheesy pizza you ever tasted",
     "price": 175,
@@ -28,7 +27,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   },{
-    "url": "pizza_mozzarella",
+    "id": "pizza_mozzarella",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
