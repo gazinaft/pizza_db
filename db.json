@@ -1,6 +1,6 @@
 {
   "products": [{
-    "id": "pizza_mozzarella",
+    "url": "pizza_mozzarella",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just mozarella, sauce and dough",
     "price": 155,
@@ -9,7 +9,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_pepperoni",
+    "url": "pizza_pepperoni",
     "productName": "Pizza Pepperoni",
     "productDescription": "The classic pizza, with thin slices of pepperoni",
     "price": 165,
@@ -18,7 +18,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_five_cheese",
+    "url": "pizza_five_cheese",
     "productName": "Five Cheese Pizza",
     "productDescription": "The most cheesy pizza you ever tasted",
     "price": 175,
@@ -27,7 +27,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_diavolo",
+    "url": "pizza_diavolo",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -36,7 +36,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_neapolitano",
+    "url": "pizza_neapolitano",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -45,7 +45,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_toscana",
+    "url": "pizza_toscana",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -54,7 +54,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_texas",
+    "url": "pizza_texas",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -63,7 +63,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_hawaii",
+    "url": "pizza_hawaii",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -72,7 +72,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_tuna",
+    "url": "pizza_tuna",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -81,7 +81,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_bbq",
+    "url": "pizza_bbq",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -90,7 +90,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_country",
+    "url": "pizza_country",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -99,7 +99,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_curry",
+    "url": "pizza_curry",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -108,7 +108,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_tomato",
+    "url": "pizza_tomato",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -117,7 +117,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_mitzza",
+    "url": "pizza_mitzza",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -126,7 +126,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_spinachfeta",
+    "url": "pizza_spinachfeta",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -135,7 +135,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_margarita",
+    "url": "pizza_margarita",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
@@ -145,26 +145,26 @@
     "categoryId": 2
   }],
   "productsCategories": [{
-    "id": "vegeterian",
+    "url": "vegeterian",
     "name": "Вегетарианские",
     "description": "Пиццы, не содержащие мяса"
   }, {
-    "id":"Classic",
+    "url":"Classic",
     "name":"Классические",
     "description":"Пиццы, проверенные временем"
   }, {
-    "id":"Premium",
+    "url":"Premium",
     "name":"Премиум",
     "description":"Пиццы, с изысканным вкусом и дорогими ингредиентами"
   }],
   "actions": [{
-    "id": "privedi_druga",
+    "url": "privedi_druga",
     "name": "Акция Приведи друга!",
     "description": "Детали акции ... ",
     "datePosted": "25.02.2020"
   }],
   "orders": [],
   "sliderData": [{
-    "id": ""
+    "url": ""
   }]
 }
