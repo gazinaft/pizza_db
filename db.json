@@ -8,7 +8,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_pepperoni",
     "productName": "Pizza Pepperoni",
     "productDescription": "The classic pizza, with thin slices of pepperoni",
@@ -17,7 +17,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_five_cheese",
     "productName": "Five Cheese Pizza",
     "productDescription": "The most cheesy pizza you ever tasted",
@@ -26,7 +26,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_diavolo",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -35,7 +35,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_neapolitano",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -44,7 +44,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_toscana",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -53,7 +53,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_texas",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -62,7 +62,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_hawaii",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -71,7 +71,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_tuna",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -80,7 +80,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_bbq",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -89,7 +89,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_country",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -98,7 +98,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_curry",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -107,7 +107,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_tomato",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -116,7 +116,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_mitzza",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -125,7 +125,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_spinachfeta",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -134,7 +134,7 @@
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
-  },{
+  }, {
     "id": "pizza_margarita",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -148,11 +148,11 @@
     "id": "vegeterian",
     "name": "Вегетарианские",
     "description": "Пиццы, не содержащие мяса"
-  },{
+  }, {
     "id":"Classic",
     "name":"Классические",
     "description":"Пиццы, проверенные временем"
-  },{
+  }, {
     "id":"Premium",
     "name":"Премиум",
     "description":"Пиццы, с изысканным вкусом и дорогими ингредиентами"
