@@ -1,5 +1,6 @@
 {
   "products": [{
+    "id": 1,
     "url": "pizza_mozzarella",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just mozarella, sauce and dough",
@@ -9,6 +10,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 2,
     "url": "pizza_pepperoni",
     "productName": "Pizza Pepperoni",
     "productDescription": "The classic pizza, with thin slices of pepperoni",
@@ -18,6 +20,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 3,
     "url": "pizza_five_cheese",
     "productName": "Five Cheese Pizza",
     "productDescription": "The most cheesy pizza you ever tasted",
@@ -27,6 +30,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 4,
     "url": "pizza_diavolo",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -36,6 +40,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 5,
     "url": "pizza_neapolitano",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -45,6 +50,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 6,
     "url": "pizza_toscana",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -54,6 +60,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 7,
     "url": "pizza_texas",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -63,6 +70,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 8,
     "url": "pizza_hawaii",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -72,6 +80,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 9,
     "url": "pizza_tuna",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -81,6 +90,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 10,
     "url": "pizza_bbq",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -90,6 +100,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 11,
     "url": "pizza_country",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -99,6 +110,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 12,
     "url": "pizza_curry",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -108,6 +120,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 13,
     "url": "pizza_tomato",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -117,6 +130,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 14,
     "url": "pizza_mitzza",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -126,6 +140,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 15,
     "url": "pizza_spinachfeta",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -135,6 +150,7 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
+    "id": 16,
     "url": "pizza_margarita",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
@@ -144,27 +160,33 @@
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }],
-  "productsCategories": [{
+  "categories": [{
+    "id": 1,
     "url": "vegeterian",
     "name": "Вегетарианские",
     "description": "Пиццы, не содержащие мяса"
   }, {
+    "id": 1,
     "url":"Classic",
     "name":"Классические",
     "description":"Пиццы, проверенные временем"
   }, {
+    "id": 1,
     "url":"Premium",
     "name":"Премиум",
     "description":"Пиццы, с изысканным вкусом и дорогими ингредиентами"
   }],
   "actions": [{
+    "id": 1,
     "url": "privedi_druga",
     "name": "Акция Приведи друга!",
     "description": "Детали акции ... ",
     "datePosted": "25.02.2020"
   }],
   "orders": [],
-  "sliderData": [{
-    "url": ""
+  "slider": [{
+    "id": 1,
+    "url": "akzia",
+    "img": "./reklama"
   }]
 }
