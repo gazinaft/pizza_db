@@ -187,6 +187,6 @@
   "slider": [{
     "id": 1,
     "url": "akzia",
-    "img": "./reklama"
+    "images": "./reklama"
   }]
 }
