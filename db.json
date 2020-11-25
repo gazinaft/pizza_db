@@ -16,7 +16,7 @@
     "images": ["pepperoni"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 1
   }, {
     "id": "pizza_five_cheese",
     "productName": "Five Cheese Pizza",
@@ -25,7 +25,7 @@
     "images": ["five_cheese"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 0
   }, {
     "id": "pizza_diavolo",
     "productName": "Pizza Mozzarella",
@@ -34,7 +34,7 @@
     "images": ["diavolo"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 1
   }, {
     "id": "pizza_bawaria",
     "productName": "Pizza Mozzarella",
@@ -43,7 +43,7 @@
     "images": ["bawaria"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 1
   }, {
     "id": "pizza_toscana",
     "productName": "Pizza Mozzarella",
@@ -52,7 +52,7 @@
     "images": ["toscana"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 0
   }, {
     "id": "pizza_texas",
     "productName": "Pizza Mozzarella",
@@ -61,7 +61,7 @@
     "images": ["texas"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 1
   }, {
     "id": "pizza_hawaii",
     "productName": "Pizza Mozzarella",
@@ -70,7 +70,7 @@
     "images": ["hawaii"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 1
   }, {
     "id": "pizza_tuna",
     "productName": "Pizza Mozzarella",
@@ -88,7 +88,7 @@
     "images": ["bbq"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 1
   }, {
     "id": "pizza_country",
     "productName": "Pizza Mozzarella",
@@ -97,7 +97,7 @@
     "images": ["country"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 0
   }, {
     "id": "pizza_curry",
     "productName": "Pizza Mozzarella",
@@ -106,7 +106,7 @@
     "images": ["curry"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 1
   }, {
     "id": "pizza_cheeseburger",
     "productName": "Pizza Mozzarella",
@@ -133,7 +133,7 @@
     "images": ["spinachfeta"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 0
   }, {
     "id": "pizza_margarita",
     "productName": "Pizza Mozzarella",
@@ -142,7 +142,7 @@
     "images": ["margarita"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
-    "categoryId": 2
+    "categoryId": 0
   }],
   "categories": [{
     "id": "vegeterian",
