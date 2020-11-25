@@ -1,10 +1,10 @@
 {
   "products": [{
-    "id": "pizza_mozzarella",
+    "id": "pizza_salmon",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just mozarella, sauce and dough",
     "price": 155,
-    "images": [],
+    "images": ["salmon"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -13,7 +13,7 @@
     "productName": "Pizza Pepperoni",
     "productDescription": "The classic pizza, with thin slices of pepperoni",
     "price": 165,
-    "images": [],
+    "images": ["pepperoni"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -22,7 +22,7 @@
     "productName": "Five Cheese Pizza",
     "productDescription": "The most cheesy pizza you ever tasted",
     "price": 175,
-    "images": [],
+    "images": ["five_cheese"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -31,16 +31,16 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["diavolo"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_neapolitano",
+    "id": "pizza_bawaria",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["bawaria"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -49,7 +49,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["toscana"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -58,7 +58,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["texas"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -67,7 +67,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["hawaii"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -76,7 +76,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["tuna"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -85,7 +85,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["bbq"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -94,7 +94,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["country"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -103,16 +103,16 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["curry"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
   }, {
-    "id": "pizza_tomato",
+    "id": "pizza_cheeseburger",
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["cheeseburger"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -121,7 +121,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["mitzza"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -130,7 +130,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["spinachfeta"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -139,7 +139,7 @@
     "productName": "Pizza Mozzarella",
     "productDescription": "The classic pizza, just cheese, sauce and drought",
     "price": 155.05,
-    "images": [],
+    "images": ["margarita"],
     "weight": 250,
     "relatedProductIds": [7,12,98],
     "categoryId": 2
@@ -149,11 +149,11 @@
     "name": "Вегетарианские",
     "description": "Пиццы, не содержащие мяса"
   }, {
-    "id":"Classic",
+    "id":"classic",
     "name":"Классические",
     "description":"Пиццы, проверенные временем"
   }, {
-    "id":"Premium",
+    "id":"premium",
     "name":"Премиум",
     "description":"Пиццы, с изысканным вкусом и дорогими ингредиентами"
   }],
@@ -165,7 +165,13 @@
   }],
   "orders": [],
   "slider": [{
-    "id": "akzia",
-    "images": "./reklama"
+    "id": "big_pizza",
+    "images": "big_pizza"
+  }, {
+    "id": "five_for_one",
+    "images": "five_pizza"
+  }, {
+    "id":"free30min",
+    "images":"free30min"
   }]
 }
