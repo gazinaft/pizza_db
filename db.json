@@ -157,21 +157,21 @@
     "name":"Premium",
     "description":"Extravagant pizza with unexpected tastes. This pizzas will surprise you even if you are experienced pizza enjoyer"
   }],
-  "actions": [{
-    "id": "privedi_druga",
-    "name": "Акция Приведи друга!",
-    "description": "Детали акции ... ",
-    "datePosted": "25.02.2020"
-  }],
   "orders": [],
   "slider": [{
     "id": "big_pizza",
-    "images": "big_pizza"
+    "images": "big_pizza",
+    "name": "Get a big pizza for only 129.99",
+    "description": "Order a big pizza for only 129.99 instead of 199.99. Applies only for such pizzas as Margarita, Texas, Pepperoni and Curry. Does't work for delivery. Viable only on Mondays, Wednesdays and Fridays."
   }, {
     "id": "five_for_one",
-    "images": "five_pizza"
+    "images": "five_pizza",
+    "name": "Get five pizzas for only 749.99",
+    "description": "Order a bundle of 5 pizzas: Pepperoni, Hawaii, BBQ, Country and Toscana. Doesn't sums with other actions. Works every day for regular orders and delivery."
   }, {
     "id":"free30min",
-    "images":"free30min"
+    "images":"free30min",
+    "name": "Free pizza after 30 minute delivery.",
+    "description": "We are so fast, that we are able to deliver pizza for less than half an hour. If we fail, you get a free pizza."
   }]
 }
